@@ -533,7 +533,7 @@
 }
 
 .feature_content{
-	color: black;
+	color: white;
 	width: 100%;
 }
 
@@ -567,8 +567,8 @@
 
 .feature_content p{
 	margin-top: 1rem;
-	font-size: 1.5rem;
-	font-weight: 700;
+	font-size: 2rem;
+	font-weight: 1000;
 
 }
 
